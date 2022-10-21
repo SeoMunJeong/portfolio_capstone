@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-anydpi-v24/diet_round_border.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-v24/rectangle_calendar_memo1.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-v24/rectangle_calendar_memo2.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/diet_memo_radius.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_calendar.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_calendar_dday.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_calendar_image2.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_calendar_image3.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_calendar_memo.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_camera.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_cameracheck.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_center.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_day.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_degree.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_delete.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_diet.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_mainpage.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_mypage.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_notice.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_registercomplete.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_registerupdate.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_setting.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_update.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_updateinfo.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/popup_activity_calendar_image.xml" value="0.19610507246376813" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
