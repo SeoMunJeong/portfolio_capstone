@@ -41,7 +41,7 @@ OCR 기반, 인바디 이미지 인식에 따른 개인맞춤형 식단표 제�
 - **Server** : AWS EC2 ubuntu
 
 ### 📌 Business Model Canvas
-![image](https://user-images.githubusercontent.com/89902489/199335848-07c9114e-a181-497e-95ac-c3dfb3176604.png)
+![image](https://user-images.githubusercontent.com/92795889/211075472-13e4c464-26f6-4da7-bf98-d7b97a9e3e89.png)
 <br>
 
 ### 📌 Development Skills
