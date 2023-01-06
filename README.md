@@ -58,10 +58,10 @@ Personal Trainer은 비용을 지불하고 PT를 직접 받지 않더라도 집�
 ### 📌 Development Tools
 |           Tools           |       Explanation       |
 | :----------------------: | :-------------------------: |
-| <center> Android Studio </center> | <center> (Front-End) 안드로이드 운영 체제를 사용하여 식단표, 일정 관리, 데이터베이스 등 사용자 중심의 UI/UX를 위한 안드로이드 기반 애플리케이션 구현 </center> |
-| <center> MySQL </center> | <center> (Back-End) 개인 맞춤형 식단표 추천 기술에 필요한 인바디 DB, 식단 DB를 구축 </center> |
-| <center> PHP </center> | <center> (Back-End) MySQL의 DB 수정, 삭제 등 PHP 기반의 백엔드 개발 환경  </center> |
-| <center> AWS EC2 </center> | <center> (Back-End) AWS의 EC2를 테스트 서버로 사용 </center> |
+| <center> Android Studio </center> | <center>  안드로이드 운영 체제를 사용하여 식단표, 일정 관리, 데이터베이스 등 사용자 중심의 UI/UX를 위한 안드로이드 기반 애플리케이션 구현 </center> |
+| <center> MySQL </center> | <center> 개인 맞춤형 식단표 추천 기술에 필요한 인바디 DB, 식단 DB를 구축 </center> |
+| <center> PHP </center> | <center>  MySQL의 DB 수정, 삭제 등 PHP 기반의 백엔드 개발 환경  </center> |
+| <center> AWS EC2 </center> | <center>  AWS의 EC2를 테스트 서버로 사용 </center> |
 
 ## 📋 Technical Architecture
 ![서비스 구성도](https://user-images.githubusercontent.com/113801496/199249384-258ee377-3db1-4757-9351-5aaaf24f9236.PNG)
