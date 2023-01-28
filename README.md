@@ -28,16 +28,14 @@ Personal Trainer은 비용을 지불하고 PT를 직접 받지 않더라도 집�
 ![image](https://user-images.githubusercontent.com/89902489/199335382-db12c2e4-9574-4911-9d25-3966071f1c84.png)
 <br>
 
-### 🧑‍🤝‍🧑 Organization
-![image](https://user-images.githubusercontent.com/89902489/200104227-841de55a-350f-432c-91a4-5d024177fcb7.png)
 
 ### ✔️ Used Technique
 | Full Stack | Technique | Role Officer |
 | :--------------------------: | :-----------------------------------------------: | :------------------------------: |
 | <center> Front-End </center> | <center> Android Studio </center> | <center> 이예진, 서문정, 유민영, 전수민, 이수화 </center> |
 | <center>  Back-End </center> | <center> PHP </center> | <center> 유민영, 전수민, 서문정, 이예진 </center> |
-| <center>  Deginer </center> | <center> PHP </center> | <center> 유민영, 전수민, 서문정, 이예진 </center> |
-| <center>  Technical Writer </center> | <center> PHP </center> | <center> 유민영, 전수민, 서문정, 이예진 </center> |
+| <center>  Designer </center> | <center> PHP </center> | <center> 전수민, 서문정 </center> |
+| <center>  Technical Writer </center> | <center> PHP </center> | <center> 유민영,이예진 </center> |
 
 ### ⚙️ Develop Environment
 - `Java 8`
