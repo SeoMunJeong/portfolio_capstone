@@ -36,6 +36,8 @@ Personal Trainer은 비용을 지불하고 PT를 직접 받지 않더라도 집�
 | :--------------------------: | :-----------------------------------------------: | :------------------------------: |
 | <center> Front-End </center> | <center> Android Studio </center> | <center> 이예진, 서문정, 유민영, 전수민, 이수화 </center> |
 | <center>  Back-End </center> | <center> PHP </center> | <center> 유민영, 전수민, 서문정, 이예진 </center> |
+| <center>  Deginer </center> | <center> PHP </center> | <center> 유민영, 전수민, 서문정, 이예진 </center> |
+| <center>  Technical Writer </center> | <center> PHP </center> | <center> 유민영, 전수민, 서문정, 이예진 </center> |
 
 ### ⚙️ Develop Environment
 - `Java 8`
